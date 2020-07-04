@@ -17,6 +17,10 @@ You can install ShapesRB like this:
 ```
 $ gem install ShapesRB
 ```
+To Update ShapesRB
+```
+$ gem update ShapesRB
+```
 ## Usage/Syntax
 ```ruby
 require 'ShapesRB'
@@ -26,6 +30,7 @@ require 'ShapesRB'
 Shapes.SQUARE
 Shapes.RECTANGLE
 Shapes.TRIANGLE
+Shapes.RHOMBUS
 ```
 
 ## Well Known Bugs
