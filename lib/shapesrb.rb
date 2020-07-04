@@ -38,5 +38,7 @@ class Shapes
         puts "  *     *  "
         puts "  *     *  "
         puts "   *****   "
+
+    end
     
 end
