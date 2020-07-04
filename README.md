@@ -26,11 +26,10 @@ require 'ShapesRB'
 Shapes.SQUARE
 Shapes.RECTANGLE
 Shapes.TRIANGLE
-# More Shapes are coming
 ```
 
 ## Well Known Bugs
-No Bugs have been found yet. If you have a glitch or a bug you would like to report please post a Issue. For more rules on making Issues for ShapesRB please read the [Issues or Feedback? Section](https://github.com/OkiStuff/ShapesRB#issues-or-feedback).
+No Bugs have been found yet. If you have a glitch or a bug you would like to report please post a Issue. For more rules on making Issues for ShapesRB please read the ["Issues or Feedback?" Section](https://github.com/OkiStuff/ShapesRB#issues-or-feedback).
 
 ## To-Do
 - Add More Shapes
