@@ -3,12 +3,12 @@ A simple gem for adding Shapes to your project. The Shapes are rendered using AS
 https://rubygems.org/gems/ShapesRB
 
 # Table of Contents
-- [How to Install](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#how-to-install)
-- [Usage/Syntax](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#usagesyntax)
-- [Well Known Bugs](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#well-known-bugs)
-- [To-Do](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#to-do)
-- [Issues or Feedback?](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#to-do)
-- [Contributors](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#contributors)
+- [How to Install](https://github.com/OkiStuff/ShapesRB#how-to-install)
+- [Usage/Syntax](https://github.com/OkiStuff/ShapesRB#usagesyntax)
+- [Well Known Bugs](https://github.com/OkiStuff/ShapesRB#well-known-bugs)
+- [To-Do](https://github.com/OkiStuff/ShapesRB#to-do)
+- [Issues or Feedback?](https://github.com/OkiStuff/ShapesRB#to-do)
+- [Contributors](https://github.com/OkiStuff/ShapesRB#contributors)
 
 ## How to install
 You can install ShapesRB like this:
@@ -28,7 +28,7 @@ Shapes.TRIANGLE
 ```
 
 ## Well Known Bugs
-No Bugs have been found yet. If you have a glitch or a bug you would like to report please post a Issue. For more rules on making Issues for ShapesRB please read the [Issues or Feedback? Section](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#issues-or-feedback).
+No Bugs have been found yet. If you have a glitch or a bug you would like to report please post a Issue. For more rules on making Issues for ShapesRB please read the [Issues or Feedback? Section](https://github.com/OkiStuff/ShapesRB#issues-or-feedback).
 
 ## To-Do
 - Add More Shapes
@@ -38,7 +38,7 @@ No Bugs have been found yet. If you have a glitch or a bug you would like to rep
 
 ## Issues or Feedback?
 
-If you are facing a bug or want to report Feedbck please create a Issue. Make sure to check the [Well Known Bugs List](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#well-known-bugs), [To-Do List](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#to-do) and any Issues regreading this problem or feedback before you post it.
+If you are facing a bug or want to report Feedbck please create a Issue. Make sure to check the [Well Known Bugs List](https://github.com/OkiStuff/ShapesRB#well-known-bugs), [To-Do List](https://github.com/OkiStuff/ShapesRB#to-do) and any Issues regreading this problem or feedback before you post it.
 
 ## Contributors
 
