@@ -24,4 +24,12 @@ class Shapes
 
     end
 
+    def self.RHOMBUS
+        puts "    _________ "
+        puts "   /        /"
+        puts "  /        /"
+        puts " /        /"
+        puts "/________/"
+    end
+    
 end

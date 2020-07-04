@@ -1,3 +1,0 @@
-require 'ShapesRB'
-
-Shapes.SQUARE
