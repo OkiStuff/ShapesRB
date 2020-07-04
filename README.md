@@ -1,6 +1,15 @@
 # ShapesRB
 A simple gem for adding Shapes to your project. The Shapes are rendered using ASCII Characters
 https://rubygems.org/gems/ShapesRB
+
+# Table of Contents
+- [How to Install](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#how-to-install)
+- [Usage/Syntax](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#usagesyntax)
+- [Well Known Bugs](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#well-known-bugs)
+- [To-Do](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#to-do)
+- [Issues or Feedback?](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#to-do)
+- [Contributors](https://github.com/OkiStuff/ShapesRB/blob/master/README.md#contributors)
+
 ## How to install
 You can install ShapesRB like this:
 ```
