@@ -1,5 +1,5 @@
 # ShapesRB
-![ShapeRB Logo](https://github.com/OkiStuff/ShapesRB/blob/master/assets/logo.png)
+![ShapeRB Logo](https://raw.githubusercontent.com/OkiStuff/ShapesRB/master/assets/logo.png)
 
 ShapesRB is a easy-to-use Ruby Gem that draws Shapes
 https://rubygems.org/gems/ShapesRB
