@@ -1,8 +1,8 @@
 # ShapesRB
-![ShapeRB Logo](https://raw.githubusercontent.com/OkiStuff/ShapesRB/master/assets/logo.png)
+![ShapeRB Logo](https://github.com/OkiStuff/ShapesRB/blob/master/assets/logo.png)
 
 ShapesRB is a easy-to-use Ruby Gem that draws Shapes
-[https://rubygems.org/gems/ShapesRB](https://rubygems.org/gems/ShapesRB)
+https://rubygems.org/gems/ShapesRB
 
 # Table of Contents
 - [How to Install](https://github.com/OkiStuff/ShapesRB#how-to-install)
@@ -17,6 +17,10 @@ You can install ShapesRB like this:
 ```
 $ gem install ShapesRB
 ```
+To Update ShapesRB
+```
+$ gem update ShapesRB
+```
 ## Usage/Syntax
 ```ruby
 require 'ShapesRB'
@@ -26,18 +30,17 @@ require 'ShapesRB'
 Shapes.SQUARE
 Shapes.RECTANGLE
 Shapes.TRIANGLE
-# More Shapes are coming
+Shapes.RHOMBUS
 ```
 
 ## Well Known Bugs
-No Bugs have been found yet. If you have a glitch or a bug you would like to report please post a Issue. For more rules on making Issues for ShapesRB please read the [Issues or Feedback? Section](https://github.com/OkiStuff/ShapesRB#issues-or-feedback).
+No Bugs have been found yet. If you have a glitch or a bug you would like to report please post a Issue. For more rules on making Issues for ShapesRB please read the ["Issues or Feedback?" Section](https://github.com/OkiStuff/ShapesRB#issues-or-feedback).
 
 ## To-Do
 - Add More Shapes
 - Allow the user to make longer or shorter Rectangles and Squares.
 - Build a simple game using ShapesRB
 - Rename the Shapes Class to the ShapesRB
-- *sleep*
 
 ## Issues or Feedback?
 
