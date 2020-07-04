@@ -1,7 +1,7 @@
 # ShapesRB
-![ShapeRB Logo](https://raw.githubusercontent.com/OkiStuff/ShapesRB/master/assets/logo.png)
+![ShapeRB Logo](https://github.com/OkiStuff/ShapesRB/blob/master/assets/logo.png)
 
-A simple gem for adding Shapes to your project. The Shapes are rendered using ASCII Characters
+ShapesRB is a easy-to-use Ruby Gem that draws Shapes
 https://rubygems.org/gems/ShapesRB
 
 # Table of Contents
@@ -46,6 +46,8 @@ If you are facing a bug or want to report Feedbck please create a Issue. Make su
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/OkiStuff"><img src="https://avatars2.githubusercontent.com/u/40648091?v=4" width="100px;" alt=""/><br /><sub><b>OkiStuff </b></sub>
-      </tr>
-<table>
+    <td align="center"><a href="https://github.com/OkiStuff"><img src="https://avatars2.githubusercontent.com/u/40648091?v=4" width="100px;" alt=""/><br /><sub><b>OkiStuff </b></sub></td>
+
+  </tr>
+
+</table>
