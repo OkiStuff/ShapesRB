@@ -2,7 +2,7 @@
 ![ShapeRB Logo](https://raw.githubusercontent.com/OkiStuff/ShapesRB/master/assets/logo.png)
 
 ShapesRB is a easy-to-use Ruby Gem that draws Shapes
-https://rubygems.org/gems/ShapesRB
+[https://rubygems.org/gems/ShapesRB](https://rubygems.org/gems/ShapesRB)
 
 # Table of Contents
 - [How to Install](https://github.com/OkiStuff/ShapesRB#how-to-install)
