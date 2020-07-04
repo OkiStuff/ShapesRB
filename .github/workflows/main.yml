@@ -35,6 +35,8 @@ jobs:
       run: ls
     - name: CD into RubyGem Folder
       run: cd rubygems
+    - name: Show all files and Folders in RubyGems Folder
+      run: ls
     - name: Set up RubyGems
       run: ruby setup.rb
     - name: Download ShapesRB
