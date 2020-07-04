@@ -9,10 +9,12 @@ $ gem install ShapesRB
 ## Usage/Syntax
 ```ruby
 require 'ShapesRB'
-include ShapesRB
-ShapesRB.SQUARE
-ShapesRB.RECTANGLE
-ShapesRB.TRIANGLE
+
+# Shapes is a part of ShapesRB
+
+Shapes.SQUARE
+Shapes.RECTANGLE
+Shapes.TRIANGLE
 # More Shapes are coming
 ```
 
