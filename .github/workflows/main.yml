@@ -31,6 +31,8 @@ jobs:
       run: git clone https://github.com/rubygems/rubygems
     - name: CD into RubyGems
       run: cd rubygems
+    - name: Show all files and Folder
+      run: ls
     - name: Set up RubyGems
       run: ruby setup.rb
     - name: Download ShapesRB
