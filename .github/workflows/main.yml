@@ -29,8 +29,12 @@ jobs:
         ruby-version: 2.7
     - name: Download RubyGems
       run: git clone https://github.com/rubygems/rubygems
-    - name: CD into RubyGems
-      run: cd rubygems/rubygems
+    - name: CD into RubyGems Project Folder
+      run: cd rubygems
+    - name: Show all files and Folders
+      run: ls
+    - name: CD into RubyGem Folder
+      run: cd rubygems
     - name: Set up RubyGems
       run: ruby setup.rb
     - name: Download ShapesRB
