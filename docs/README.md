@@ -46,8 +46,4 @@ If you are facing a bug or want to report Feedbck please create a Issue. Make su
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/OkiStuff"><img src="https://avatars2.githubusercontent.com/u/40648091?v=4" width="100px;" alt=""/><br /><sub><b>OkiStuff </b></sub></td>
-
-  </tr>
-
-</table>
+    <td align="center"><a href="https://github.com/OkiStuff"><img src="https://avatars2.githubusercontent.com/u/40648091?v=4" width="100px;" alt=""/><br /><sub><b>OkiStuff </b></sub>
