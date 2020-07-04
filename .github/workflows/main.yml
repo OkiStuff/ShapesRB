@@ -32,7 +32,7 @@ jobs:
     - name: CD into RubyGems Project Folder
       run: cd rubygems
     - name: Show all files and Folders
-      run: ls
+      run: ls rubygems/
     #- name: CD into RubyGem Folder
       #run: cd rubygems
     #- name: Show all files and Folders in RubyGems Folder
