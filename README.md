@@ -1,7 +1,7 @@
 # ShapesRB
 ![ShapeRB Logo](https://github.com/OkiStuff/ShapesRB/blob/master/assets/logo.png)
 
-A simple gem for adding Shapes to your project. The Shapes are rendered using ASCII Characters
+A Gem made in Ruby that allows you to render 2D Shapes
 https://rubygems.org/gems/ShapesRB
 
 # Table of Contents
