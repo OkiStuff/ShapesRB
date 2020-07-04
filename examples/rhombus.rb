@@ -1,0 +1,3 @@
+require 'ShapesRB'
+
+Shapes.RHOMBUS
