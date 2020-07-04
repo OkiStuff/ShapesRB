@@ -31,5 +31,12 @@ class Shapes
         puts " /        /"
         puts "/________/"
     end
+
+    def self.SMILE
+        puts "    * *  "
+        puts ""
+        puts "  *     *  "
+        puts "  *     *  "
+        puts "   *****   "
     
 end
