@@ -1,7 +1,7 @@
 # ShapesRB
 ![ShapeRB Logo](https://github.com/OkiStuff/ShapesRB/blob/master/assets/logo.png)
 
-A Gem made in Ruby that allows you to render 2D Shapes
+ShapesRB is a easy-to-use Ruby Gem that draws Shapes
 https://rubygems.org/gems/ShapesRB
 
 # Table of Contents
