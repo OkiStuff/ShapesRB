@@ -30,9 +30,9 @@ jobs:
     - name: Download RubyGems
       run: git clone https://github.com/rubygems/rubygems
     - name: CD into RubyGems Project Folder
-      run: cd rubygems
+      run: cd rubygems/rubygems
     - name: Show all files and Folders
-      run: ls rubygems/
+      run: ls
     #- name: CD into RubyGem Folder
       #run: cd rubygems
     #- name: Show all files and Folders in RubyGems Folder
