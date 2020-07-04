@@ -2,9 +2,21 @@
 A simple gem for adding Shapes to your project. The Shapes are rendered using ASCII Characters
 https://rubygems.org/gems/ShapesRB
 ## How to install
-Right now ShapesRB is not on RubyGems. But when it will be you can install it like this
+You can install ShapesRB like this:
 ```
 $ gem install ShapesRB
 ```
 ## Usage/Syntax
-ShapesRB is not out yet so I can not show you how to use it. It will be out soon
+```ruby
+require 'ShapesRB'
+include ShapesRB
+ShapesRB.SQUARE
+ShapesRB.RECTANGLE
+ShapesRB.TRIANGLE
+# More Shapes are coming
+```
+
+## To-Do
+- Add More Shapes
+- Allow the user to make longer or shorter Rectangles and Squares.
+- Build a simple game using ShapesRB
