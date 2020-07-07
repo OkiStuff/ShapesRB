@@ -40,5 +40,8 @@ class Shapes
         puts "   *****   "
 
     end
-    
+
+    def self.LINE(len)
+        puts "|" 
+    end
 end

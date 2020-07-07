@@ -1,3 +1,3 @@
 require 'ShapesRB'
 
-Shapes.RECTANGLE
+Shapes.LINE(2)
